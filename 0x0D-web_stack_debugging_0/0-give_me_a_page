@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#  Apache cmd start
+#  Apache cmd  status 
+service apache2 start
+service apache2 status
